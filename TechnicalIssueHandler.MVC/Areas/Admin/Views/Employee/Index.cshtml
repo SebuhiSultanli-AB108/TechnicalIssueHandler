@@ -1,0 +1,52 @@
+﻿@model IEnumerable<EmployeeGetVM>
+<div style="width: 100%">
+    <style>
+        table {
+            width: 100%;
+            border-collapse: collapse;
+        }
+
+        th, td {
+            padding: 8px;
+            text-align: left;
+            border: 1px solid #ddd;
+        }
+
+        th {
+            margin-right: 20px;
+            background-color: #f2f2f2;
+        }
+
+        img {
+            width: 50px;
+            height: 50px;
+            border-radius: 50%;
+        }
+    </style>
+
+    <a asp-controller="Employee" asp-action="Create"></a>
+
+    <table>
+        <thead>
+            <tr>
+                <th>Name</th>
+                <th>Surname</th>
+                <th>Icon</th>
+                <th>Salary</th>
+                <th>Department Name</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var item in Model)
+            {
+                <tr>
+                    <td>@item.Name</td>
+                    <td>@item.Surname</td>
+                    <td><img src="@item.Image.FileName" alt="Icon"></td>
+                    <td>$@item.Salary</td>
+                    <td>@item.DesignationName</td>
+                </tr>
+            }
+        </tbody>
+    </table>
+</div>

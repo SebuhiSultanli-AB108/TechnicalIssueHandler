@@ -1,0 +1,11 @@
+C:\Users\classtime\Desktop\TechnicalIssueHandler\TechnicalIssueHandler.Core\bin\Debug\net8.0\TechnicalIssueHandler.Core.deps.json
+C:\Users\classtime\Desktop\TechnicalIssueHandler\TechnicalIssueHandler.Core\bin\Debug\net8.0\TechnicalIssueHandler.Core.dll
+C:\Users\classtime\Desktop\TechnicalIssueHandler\TechnicalIssueHandler.Core\bin\Debug\net8.0\TechnicalIssueHandler.Core.pdb
+C:\Users\classtime\Desktop\TechnicalIssueHandler\TechnicalIssueHandler.Core\obj\Debug\net8.0\TechnicalIssueHandler.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\classtime\Desktop\TechnicalIssueHandler\TechnicalIssueHandler.Core\obj\Debug\net8.0\TechnicalIssueHandler.Core.AssemblyInfoInputs.cache
+C:\Users\classtime\Desktop\TechnicalIssueHandler\TechnicalIssueHandler.Core\obj\Debug\net8.0\TechnicalIssueHandler.Core.AssemblyInfo.cs
+C:\Users\classtime\Desktop\TechnicalIssueHandler\TechnicalIssueHandler.Core\obj\Debug\net8.0\TechnicalIssueHandler.Core.csproj.CoreCompileInputs.cache
+C:\Users\classtime\Desktop\TechnicalIssueHandler\TechnicalIssueHandler.Core\obj\Debug\net8.0\TechnicalIssueHandler.Core.dll
+C:\Users\classtime\Desktop\TechnicalIssueHandler\TechnicalIssueHandler.Core\obj\Debug\net8.0\refint\TechnicalIssueHandler.Core.dll
+C:\Users\classtime\Desktop\TechnicalIssueHandler\TechnicalIssueHandler.Core\obj\Debug\net8.0\TechnicalIssueHandler.Core.pdb
+C:\Users\classtime\Desktop\TechnicalIssueHandler\TechnicalIssueHandler.Core\obj\Debug\net8.0\ref\TechnicalIssueHandler.Core.dll

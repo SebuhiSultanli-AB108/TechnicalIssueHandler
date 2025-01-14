@@ -1,0 +1,17 @@
+C:\Users\classtime\Desktop\TechnicalIssueHandler\TechnicalIssueHandler.DAL\bin\Debug\net8.0\TechnicalIssueHandler.DAL.deps.json
+C:\Users\classtime\Desktop\TechnicalIssueHandler\TechnicalIssueHandler.DAL\bin\Debug\net8.0\TechnicalIssueHandler.DAL.runtimeconfig.json
+C:\Users\classtime\Desktop\TechnicalIssueHandler\TechnicalIssueHandler.DAL\bin\Debug\net8.0\TechnicalIssueHandler.DAL.dll
+C:\Users\classtime\Desktop\TechnicalIssueHandler\TechnicalIssueHandler.DAL\bin\Debug\net8.0\TechnicalIssueHandler.DAL.pdb
+C:\Users\classtime\Desktop\TechnicalIssueHandler\TechnicalIssueHandler.DAL\bin\Debug\net8.0\TechnicalIssueHandler.Core.dll
+C:\Users\classtime\Desktop\TechnicalIssueHandler\TechnicalIssueHandler.DAL\bin\Debug\net8.0\TechnicalIssueHandler.Core.pdb
+C:\Users\classtime\Desktop\TechnicalIssueHandler\TechnicalIssueHandler.DAL\obj\Debug\net8.0\TechnicalIssueHandler.DAL.csproj.AssemblyReference.cache
+C:\Users\classtime\Desktop\TechnicalIssueHandler\TechnicalIssueHandler.DAL\obj\Debug\net8.0\TechnicalIssueHandler.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\classtime\Desktop\TechnicalIssueHandler\TechnicalIssueHandler.DAL\obj\Debug\net8.0\TechnicalIssueHandler.DAL.AssemblyInfoInputs.cache
+C:\Users\classtime\Desktop\TechnicalIssueHandler\TechnicalIssueHandler.DAL\obj\Debug\net8.0\TechnicalIssueHandler.DAL.AssemblyInfo.cs
+C:\Users\classtime\Desktop\TechnicalIssueHandler\TechnicalIssueHandler.DAL\obj\Debug\net8.0\TechnicalIssueHandler.DAL.csproj.CoreCompileInputs.cache
+C:\Users\classtime\Desktop\TechnicalIssueHandler\TechnicalIssueHandler.DAL\obj\Debug\net8.0\Technica.96DC6416.Up2Date
+C:\Users\classtime\Desktop\TechnicalIssueHandler\TechnicalIssueHandler.DAL\obj\Debug\net8.0\TechnicalIssueHandler.DAL.dll
+C:\Users\classtime\Desktop\TechnicalIssueHandler\TechnicalIssueHandler.DAL\obj\Debug\net8.0\refint\TechnicalIssueHandler.DAL.dll
+C:\Users\classtime\Desktop\TechnicalIssueHandler\TechnicalIssueHandler.DAL\obj\Debug\net8.0\TechnicalIssueHandler.DAL.pdb
+C:\Users\classtime\Desktop\TechnicalIssueHandler\TechnicalIssueHandler.DAL\obj\Debug\net8.0\TechnicalIssueHandler.DAL.genruntimeconfig.cache
+C:\Users\classtime\Desktop\TechnicalIssueHandler\TechnicalIssueHandler.DAL\obj\Debug\net8.0\ref\TechnicalIssueHandler.DAL.dll
